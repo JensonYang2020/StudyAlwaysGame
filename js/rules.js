@@ -1,0 +1,3 @@
+AddScore = {
+    "OneHoursHomeWork": 3,
+}
